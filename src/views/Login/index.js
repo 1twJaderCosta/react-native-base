@@ -30,7 +30,6 @@ function Login(props) {
           navigation.navigate('Home');
         }}
       />
-      <p>{I18n.t('send')}</p>
 
       <ButtonComponent
         title={I18n.t('sold')}
